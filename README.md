@@ -48,7 +48,9 @@ Design
 
 ### 이미지
 ```html
-<img src="http://t1.daumcdn.net/news/201602/07/mediatoday/20160207163947598kela.jpg" alt="ryan">
+<img src="http://t1.daumcdn.net/news/201602/07/mediatoday/20160207163947598kela.jpg" alt="ryan" width="260" height="354">
 ```
+
+
 
 ![ryan](http://t1.daumcdn.net/news/201602/07/mediatoday/20160207163947598kela.jpg)

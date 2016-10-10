@@ -51,4 +51,4 @@ Design
 <img src="http://t1.daumcdn.net/news/201602/07/mediatoday/20160207163947598kela.jpg" alt="ryan">
 ```
 
-! [ryan](http://t1.daumcdn.net/news/201602/07/mediatoday/20160207163947598kela.jpg)
+![ryan](http://t1.daumcdn.net/news/201602/07/mediatoday/20160207163947598kela.jpg)

@@ -45,3 +45,10 @@ Design
 1. item1
 1. item2
 1. item3
+
+### 이미지
+```html
+<img src="http://t1.daumcdn.net/news/201602/07/mediatoday/20160207163947598kela.jpg" alt="ryan">
+```
+
+! [ryan](http://t1.daumcdn.net/news/201602/07/mediatoday/20160207163947598kela.jpg)

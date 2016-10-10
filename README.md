@@ -73,3 +73,11 @@ HTML  언어에서는`<bloockquite>` 요소를 사용하여 인용절을 구조�
 > "Design is All. All is Design?"<br>
 > "Learn By Doing"<br>
 > "그것이 최선입니까? 확실해요?"
+
+###표
+
+Job Type | Role
+--- | ---
+Planner | Plan
+Designer | Design
+Developer |Develop

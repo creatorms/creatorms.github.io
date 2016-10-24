@@ -4,17 +4,25 @@ body{
 	align-items: center;
 	min-height: 100vh;
 	margin:0;
-	font:1.375rem/1.5 "Spoqa Han Sans", Dotum, Sans-serif;
+	/*font:1.375rem/1.5 "Spoqa Han Sans", Dotum, Sans-serif;*/
+	font:1.375rem/1.5 "Lato", sans-serif;
 	color:#fff;
-	background: #000 url("../Assets/main_bg.jpg") no-repeat center top;
+	background: #000 url("../Assets/index_bg.jpg") no-repeat center top;
 
 }
 
 h1{
 	margin:0;
-	font-weight:  200;
+	font-weight: 200;
 	font-size: 5rem;
-	animation:  wiggle 3s infinite;
+	/*animation:  wiggle 3s infinite;*/
+}
+
+h3{
+	margin:0;
+   font-weight: 200;
+   font-size: 2rem;
+
 
 }
 

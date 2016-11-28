@@ -1,0 +1,108 @@
+
+.box {
+  background: hsla(0, 0%, 20%, 0.45);
+  color: #fff;
+  text-align: center;
+}
+
+h1{
+  margin:0;
+  font-weight: 900;
+  font-size: 7rem;
+  text-align: center;
+  letter-spacing: 0.2em;
+}
+
+h3{
+  margin:0;
+  font-weight: 700;
+  font-size: 3rem/1.5;
+  color:#333;
+}
+
+.shoes .desc{
+font-family: 'PT Serif', serif;
+font-weight: 400;
+font-style: italic;
+color: #666;
+font-size: 1.2rem;
+
+}
+
+.dress {
+  height: 410px;
+}
+
+.v-space {
+  margin-bottom: 20px;
+}
+
+.v-space-top {
+  margin-top: 20px;
+}
+
+.product {
+  height: 300px;
+  line-height: 300px;
+}
+
+.hx2 {
+  height: 620px;
+}
+
+.visual{
+  width:100%;
+  height: 580px;
+  background: #efeff1;
+  margin-left:auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+}
+
+.top_woman img{
+  position: absolute;
+  float: right;
+  position: relative;
+  padding-right: 300px;
+}
+
+.top_woman h1{
+   float: left;
+   position: absolute;
+   padding-left: 340px;
+   padding-top: 200px;
+}
+
+.top_woman .desc{
+  float: left;
+  position: absolute;
+  font-family: 'PT Serif', serif;
+  font-weight: 400;
+  font-style: italic;
+  color: #999;
+  font-size: 2rem;
+  padding-left: 390px;
+  padding-top: 340px;
+  letter-spacing: 0.35em;
+}
+
+.shoes{
+  background: url("../images/banner/shoes.jpg");
+  background-repeat :no-repeat;
+  height: 300px;
+}
+
+.bags{
+  background: url("../images/banner/leather-bags.jpg");
+  height: 300px;
+}
+
+.collection{
+  background: url("../images/banner/collection.jpg");
+  height: 300px;
+}
+
+.women{
+  background: url("../images/banner/woman.jpg");
+  height: 620px;
+}
